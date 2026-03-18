@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ProjetoXadrez.tabuleiro
 {
-    internal class Cor
+    enum Cor
     {
+        Branca,
+        Amarela
     }
 }
