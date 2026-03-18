@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoXadrez.tabuleiro
 {
-    internal class Posicao
+    internal class Tabuleiro
     {
     }
 }
